@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "LR1_Inpu.842ed1f8\\x64\\Debug\\LR1_Input-Output begin 37.obj",
+            "outputs": [
+                "LR1_Inpu.842ed1f8\\x64\\Debug\\LR1_Input-Output begin 37.cpp.obj.dt.module.json",
+                "LR1_Inpu.842ed1f8\\x64\\Debug\\LR1_Input-Output begin 37.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
