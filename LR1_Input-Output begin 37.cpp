@@ -1,25 +1,27 @@
 #include <iostream>
+using namespace std;        // Вказ. використання простору імен std (зменшення коду)
 
 int main()
 { 
 	// задача Begin37
-	std::cout << "--- Task Begin37 ---" << std::endl;
+	cout << "--- Task Begin37 ---" << endl;
 
 	// декларація змінних
 	double a, b, H;
 
 	// введення змінної a
-	std::cout << "Enter number a: ";
-	std::cin >> a;
+	cout << "Enter number a: ";
+	cin >> a;
 
 	// введення змінної b
-	std::cout << "Enter number b: ";
-	std::cin >> b;
+	cout << "Enter number b: ";
+	cin >> b;
 
 	// розрахунок результату
 	H = (2 * a * b) / (a + b);
 
 	// вивід результату 
-	std::cout << "Harmonic mean H = " << H << std::endl;
+	cout << "Harmonic mean H = " << H << endl;
+	
 	return 0;
 } 
